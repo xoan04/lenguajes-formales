@@ -7,7 +7,6 @@ def ingresar_lista(cantidad):
         lista_aux = cadena.split(',')
         lista_resultante.append(lista_aux)
     return lista_resultante
-
 alfabetos = []
 lenguajes = []
 
