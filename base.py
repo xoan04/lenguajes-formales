@@ -1,0 +1,1 @@
+#base algorítmica para el proyecto
